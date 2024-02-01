@@ -27,8 +27,8 @@
 
   .container {
     background-color: hsl(0, 0%, 100%);
-    width: 40em;
-    padding: 30px;
+    width: 35em;
+    padding: 50px;
     border-radius: 20px;
     color: hsl(292, 42%, 14%);
     height: fit-content;
